@@ -2,7 +2,7 @@
 title: "Basic Plots"
 author: "Selina Hsuan"
 date: 2023-14-09
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
